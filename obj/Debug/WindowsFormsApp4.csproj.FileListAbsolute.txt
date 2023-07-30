@@ -1,0 +1,27 @@
+C:\Users\aabab\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\aabab\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\aabab\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\aabab\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\aabab\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\aabab\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\aabab\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\aabab\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\אני\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\אני\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\אני\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\אני\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CarPrice.resources
+C:\Users\אני\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\אני\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\אני\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\אני\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\אני\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\אני\Desktop\projects hit\cpp\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\אני\Desktop\projects hit\cpp\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\אני\Desktop\projects hit\cpp\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\אני\Desktop\projects hit\cpp\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\אני\Desktop\projects hit\cpp\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CarPrice.resources
+C:\Users\אני\Desktop\projects hit\cpp\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\אני\Desktop\projects hit\cpp\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\אני\Desktop\projects hit\cpp\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\אני\Desktop\projects hit\cpp\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\אני\Desktop\projects hit\cpp\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
